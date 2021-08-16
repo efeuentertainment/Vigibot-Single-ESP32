@@ -1,6 +1,5 @@
 # Vigibot-Single-ESP32
 
-UPDATE 15. Dez 2020:
 - if you want to control multiple ESP32 robots/gadgets, use this guide instead:
 https://github.com/efeuentertainment/Vigibot-Multiple-ESP32
 
