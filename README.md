@@ -31,7 +31,7 @@ do
   sleep 1
   sudo socat -T15 open:/dev/ttyEsp0,raw,nonblock tcp:192.168.1.64:7070
   date
-  echo "restarting ncat"
+  echo "restarting socat"
 done
 ```
 
